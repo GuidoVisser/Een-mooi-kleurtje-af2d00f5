@@ -1,0 +1,19 @@
+/* achtergrond */
+body {
+	background-color: #74992e;;
+}
+
+/* tekst */
+a {
+	color: green;
+	size: medium;
+}
+
+h1 {
+	color: red;
+}
+
+h2 {
+	color: purple;
+	font-size: small;
+}
